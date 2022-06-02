@@ -1,0 +1,11 @@
+.style{
+	background-color: greenyellow;
+}
+
+.display{
+	display: flex;
+	flex-direction: column;
+	text-align: center;
+}
+
+SS
